@@ -1,0 +1,22 @@
+{
+  "name": "hacktown",
+  "version": "1.0.0",
+  "description": "hacktown project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hagarmar/hacktown.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hagarmar/hacktown/issues"
+  },
+  "homepage": "https://github.com/hagarmar/hacktown",
+  "devDependencies": {
+    "bower": "^1.4.1"
+  }
+}
